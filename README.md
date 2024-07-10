@@ -1,9 +1,9 @@
 
 
-# Sidcup Family Golf Frontend Project
+# GolfZone Interactive Website
 
 ## Project Overview
-Developed a modern, interactive, and visually appealing frontend for Sidcup Family Golf, a multipurpose golf facility in South East London. The project emphasizes user experience and engagement through seamless design, animations, and responsive layout.
+Developed a modern, interactive, and visually appealing frontend for GolfZone Interactive Website, a multipurpose golf facility. The project emphasizes user experience and engagement through seamless design, animations, and responsive layout.
 
 ## Key Features
 
