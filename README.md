@@ -34,5 +34,5 @@ Developed a modern, interactive, and visually appealing frontend for GolfZone In
 
 - **Improved user engagement**: Through interactive and visually appealing design.
 - **Increased accessibility and user satisfaction**: Through responsive design.
-- **Enhanced the overall brand experience**: Boosted Sidcup Family Golf's online presence.
+
 
